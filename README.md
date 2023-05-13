@@ -37,4 +37,4 @@ Enjoy your music with the Spot2 Music Player!
 4. simpleaudio
 5. pillow
 # License
-This project is licensed under the GNU License.
+This project is licensed under the GNU License "https://github.com/DeroXP/Spot2-Python/blob/main/LICENSE".
